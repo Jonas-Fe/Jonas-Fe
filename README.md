@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Jonas!</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C/C++ (cmake, SFML, SDL, OpenGL, Vulkan, Boost)</b>
+  - [Spacefire](https://github.com/Jonas-Fe)
+  - [Vulken renderer](https://github.com/Jonas-Fe)
+  - [OpenGL renderer](https://github.com/Jonas-Fe)
+  - [MGE engine](https://github.com/Jonas-Fe)
+  - [MusicPlayer](https://github.com/Jonas-Fe)
+  - [ECS-Test](https://github.com/Jonas-Fe)
+- <b>C# (SFML.Net)</b>
+  - [BulletChaos](https://github.com/Jonas-Fe)
+- <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
+  - [BibleVerses](https://github.com/Jonas-Fe)
 
 <!--
-**Jonas-Fe/Jonas-Fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
