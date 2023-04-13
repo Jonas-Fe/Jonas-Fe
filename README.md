@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jonas!</h1>
-
+<br>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C/C++ (cmake, SFML, SDL, OpenGL, Vulkan, Boost)</b>
